@@ -1,0 +1,1 @@
+'123424'	inject: true	into: 		[:sum :each |		sum & each isDigit]

@@ -1,0 +1,1 @@
+MessageCounter messagesInCat: 'SeniorProject*'.AppShell default.

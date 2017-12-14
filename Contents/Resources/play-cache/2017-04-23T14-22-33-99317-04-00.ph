@@ -1,0 +1,1 @@
+past20:=OrderedCollection new.past20 size.

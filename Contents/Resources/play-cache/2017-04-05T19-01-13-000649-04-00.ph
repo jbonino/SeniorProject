@@ -1,0 +1,1 @@
+Gofer it	url: 'http://ss3.gemstone.com/ss/jQueryMobile';  	package: 'ConfigurationOfJQueryMobile';  	load.	ConfigurationOfJQueryMobile loadBleedingEdge.

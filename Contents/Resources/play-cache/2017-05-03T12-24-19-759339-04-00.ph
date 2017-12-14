@@ -1,0 +1,1 @@
+self halt.MessageCounter messagesInCat: 'SeniorProject*'

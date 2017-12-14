@@ -1,0 +1,1 @@
+WAAdmin clearSessions

@@ -1,0 +1,1 @@
+hey := OrderedDictionary new.hey add: (Review new author:'joben').review := (Review new author:'fred').hey add:review.hey do: [ :review | Transcript show: review author ].^hey associations sort: [ :a :b| a voteValue > b voteValue ].

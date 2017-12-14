@@ -1,0 +1,1 @@
+MailAddressTokenizer tokensIn: 'jbonino@nmu.edu'

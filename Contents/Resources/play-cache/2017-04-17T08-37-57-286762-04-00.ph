@@ -1,0 +1,1 @@
+aReview := Review new.temp := Array with:aReview with:1.temp atWrap: 1

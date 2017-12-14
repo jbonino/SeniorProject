@@ -1,0 +1,1 @@
+self halt.User newUnverifiedUsername: 'nedwbie' email: 'jasdf'.

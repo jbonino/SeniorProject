@@ -1,0 +1,1 @@
+mailMessage := MailMessage empty.mailMessage setField: 'subject' toString: 'ZdcSecureSMTPClient Test'.mailMessage body: (MIMEDocument                  contentType: 'text/plain'                  content: 'This is test from Pharo Smalltalk').ZdcSecureSMTPClientsendUsingGMailAccount: 'jbonino@nmu.edu' password: 'Lacrosse!38'to: 'jbonino@nmu.edu' message: mailMessage.

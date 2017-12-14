@@ -1,0 +1,1 @@
+UserStructure clear.UserStructure post: (User new username:'jbonino'; pin:'1234').UpcStructure post: Item defaultForm.

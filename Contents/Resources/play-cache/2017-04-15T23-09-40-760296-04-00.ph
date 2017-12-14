@@ -1,0 +1,1 @@
+UpcStructure remove: (UpcStructure getByUpc: '123412341234').UpcStructure post: Item defaultForm.
